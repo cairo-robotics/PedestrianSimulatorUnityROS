@@ -29,9 +29,10 @@ Building ROS for Unity
 Copy the PythonScripts/Unity directory to your Catkin workspace (catkin_ws).
 Run the following command in the terminal to build the workspace:
 ```bash
-Copy code
-cd ~/catkin_ws/
-catkin_make ```
+    Copy code
+    cd ~/catkin_ws/
+    catkin_make 
+```
 Running ROS Client to View ROS Messages
 To visualize ROS messages and monitor the communication, perform the following steps:
 
